@@ -1,0 +1,24 @@
+@import "./colors";
+.header {
+	padding: 10px;
+	font-family: sans-serif;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	background-color: $primary-color;
+	color: $primary-color-text;
+	.branding {
+		.logo {
+			font-size: 3rem;
+		}
+
+		.version {
+			opacity: 0.5;
+		}
+	}
+	.project-link {
+		align-self: flex-end;
+		text-decoration: none;
+		color: $primary-color-text;
+	}
+}
