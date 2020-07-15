@@ -14,7 +14,7 @@ function Header() {
 				</h1>
 				<strong className="version">ver. 2020.JUL</strong>
 			</div>
-			<a href="#" className="project-link">
+			<a href="https://github.com/AnweshDahal/recepie" className="project-link">
 				<i className="fab fa-github"></i>
 			</a>
 		</div>
