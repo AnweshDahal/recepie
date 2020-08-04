@@ -1,4 +1,4 @@
-# Recepie App v. 2020.JUL
+# Foodmonger v. 2020.JUL
 
 **Author: Anwesh Dahal**
 
